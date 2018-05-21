@@ -1,0 +1,57 @@
+#loan_calc_widget_main_inner{
+	margin: 0 auto;
+	padding: 10px;
+	background: #F1F1F1;
+	border: 2px solid gray;
+	width:160px;
+	color:#474747;
+}
+#loan_calc_short_code_main{
+	margin: 0 auto;
+	padding: 10px;
+	background: #F1F1F1;
+	border: 2px solid gray;
+	width:160px;
+}
+#mortgage_calc_content_monthly_mortgage_calc .mortgage_item_monthly_mortgage_calc{
+	float: left;
+	margin: 5px;
+}
+
+#mortgage_calc_content_monthly_mortgage_calc input.mortgage-values_monthly_mortgage_calc{
+	width: 70px;
+	margin: 0;
+}
+
+#mortgage_calc_content_monthly_mortgage_calc input#mortgage_submit_monthly_mortgage_calc {
+	width: 120px;
+	margin: 0!important;
+}
+
+#mortgage_calc_content_monthly_mortgage_calc label.error{
+	color: red;
+	margin-left: 10px;
+}
+
+.clear{
+	clear: both;
+}
+
+#result_monthly_mortgage_calc, #result_monthly_mortgage_calc_widget{
+	margin: 0 auto;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#mortgage_copy_monthly_mortgage_calc{
+	font-size:10px;
+}
+.mortgage_item_monthly_mortgage_calc input{
+	width: 96%;
+}
+#advanced_mortgage_calculate{
+	margin-top:10px;
+}
+#mortgage_submit_monthly_mortgage_calc_free{
+	margin-top:10px;
+}

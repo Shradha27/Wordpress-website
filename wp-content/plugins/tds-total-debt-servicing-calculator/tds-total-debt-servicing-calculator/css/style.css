@@ -1,0 +1,77 @@
+h2.aff-cal {
+    padding: 5px 15px 10px;
+}
+
+.hac-color{
+    color: #e96c4c;
+    padding: 5px 15px 5px;
+}
+.hc-btn{
+    text-decoration: none;
+}
+.amount-info-aff{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 24px;
+    color: #e96c4c;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.button-container{
+   padding: 5px 15px 10px; 
+}
+.ca-hr {
+    display: block;
+    clear: both;
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+    width: 96%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    height: 1px;
+    border: 0;
+    background: #E8E8E8;
+}
+.calculate-tdsc-response {
+    margin: 25px 0;
+}
+.TDSC-title{
+    margin: 8px;
+    padding: 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+.tdsc-response-box{
+    margin: 10px 15px 20px 15px;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.tdsc-response-box li {
+    border: 1px solid #e96c4c;
+    border-radius: 4px;
+    display: block;
+    float: left;
+    margin: 0 10px 12px auto;
+    padding: 10px;
+    width: 200px;
+}
+.tdsc-response-box li h4 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.tdsc-response-box li p {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    color: #e96c4c;
+}
+.error {
+    color: red;
+}

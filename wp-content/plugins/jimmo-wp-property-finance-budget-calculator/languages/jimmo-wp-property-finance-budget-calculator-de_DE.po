@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JIMMO WP Loan Budget Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-18 14:17+0000\n"
+"PO-Revision-Date: 2017-05-19 07:54+0000\n"
+"Last-Translator: Tobias Zimpel - NetJet UG <tobias.zimpel@net-jet.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:33
+msgid ""
+"If you love us and our plugin, too, we would love you to spread the word by "
+"giving us a 5 star rating in the WordPress plugin directory."
+msgstr ""
+"Wenn Sie uns und unsere Plugins auch lieben, würden wir uns freuen, wenn Sie "
+"es weiter erzählen, indem Sie uns eine 5-Sterne-Bewertung in WordPress "
+"Plugin-Verzeichnis geben."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:102
+msgid "Help & Settings"
+msgstr "Hilfe & Einstellungen"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:117
+msgid "JIMMO WP Property Finance Budget Calculator Settings"
+msgstr "JIMMO WP Immobilien Finanzierungsrechner Einstellungen"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:118
+msgid "JWP Budget Calculator"
+msgstr "JWP Budgetrechner"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:144
+msgid "JIMMO TOOLs Credits"
+msgstr "JIMMO TOOLs Credits"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:151
+msgid "Display credits"
+msgstr "Credits anzeigen"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:168
+msgid ""
+"Do you want to support our work? Please allow us to show credits and a link "
+"back to our homepage below the form on your website."
+msgstr ""
+"Wollen Sie unsere Arbeit unterstützen? Dann erlauben sie uns bitte, eine "
+"kurze Credit-Zeile und einen Link zu unserer Webseite unter dem Formular auf "
+"Ihrer Webseite anzuzeigen."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/class-jimmo-wp-property-finance-budget-calculator-admin.php:196
+#, php-format
+msgid ""
+"Do you want to support the JIMMO Team? Then go to the <a href=\"%s\">"
+"Settings Page</a> to activate our credits."
+msgstr ""
+"Möchten Sie das JIMMO Team unterstützen? Dann gehen Sie auf die <a "
+"href=\"%s\">Einstellungs-Seite</a>, um unsere Credits zu aktivieren."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:180
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:76
+msgid "January"
+msgstr "Januar"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:181
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:77
+msgid "February"
+msgstr "Februar"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:182
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:78
+msgid "March"
+msgstr "März"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:183
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:79
+msgid "April"
+msgstr "April"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:184
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:80
+msgid "May"
+msgstr "Mai"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:185
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:81
+msgid "June"
+msgstr "Juni"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:186
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:82
+msgid "July"
+msgstr "Juli"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:187
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:83
+msgid "August"
+msgstr "August"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:188
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:84
+msgid "September"
+msgstr "September"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:189
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:85
+msgid "October"
+msgstr "Oktober"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:190
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:86
+msgid "November"
+msgstr "November"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:191
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:87
+msgid "December"
+msgstr "Dezember"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/class-jimmo-wp-property-finance-budget-calculator-public.php:291
+#, php-format
+msgid ""
+"Table was cut off after 100 years. Calculated repayment period is %s years."
+msgstr ""
+"Die Tabelle wurde nach 100 Jahren abgeschnitten. Die berechnete "
+"Zahlungsdauer beträgt %s Jahre."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:18
+msgid "How to display the Budget Calculator"
+msgstr "Wie füge ich den Finanzierungsrechner ein?"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:19
+msgid "Use our shortcode"
+msgstr "Benutze unseren Shortcode"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:21
+msgid "Open any post, page or other part of your website in the editor."
+msgstr ""
+"Öffnen Sie einen Beitrag, eine Seite oder einen anderen Teil Ihrer Webseite "
+"im Editor."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:24
+#, php-format
+msgid "Enter the shortcode %s where you want the calculator to show up."
+msgstr ""
+"Geben Sie den Shortcode %s an der Stelle ein, an der der Rechner angezeigt "
+"werden soll."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:28
+msgid ""
+"Load the page or post in the frontend and check the calculator is displayed "
+"in the way you want it to."
+msgstr ""
+"Laden Sie die Seite oder den Beitrag im Frontend, und prüfen Sie, dass der "
+"Rechner wie gewünscht angezeigt wird."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:32
+msgid "We love you and our plugins!"
+msgstr "Wir lieben Sie und unsere Plugins!"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:34
+msgid "I love you and your plugin, too!"
+msgstr "Ich liebe Sie und Ihr Plugin auch!"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/admin/partials/jimmo-wp-property-finance-budget-calculator-welcome-box.php:37
+#, php-format
+msgid ""
+"If you have any questions regarding the plugin, want to customize parts of "
+"the form, or have any suggestions or comments, please feel free to <a "
+"href=\"%s\" target=\"_blank\">contact us</a>!"
+msgstr ""
+"Wenn Sie Fragen zum Plugin haben, Teile des Formulars anpassen möchten, oder "
+"Vorschläge oder Kommentare haben, <a href=\"%s\" target=\"_blank\">"
+"kontaktieren Sie uns gerne</a>!"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:20
+msgid "Property Finance Budget Calculator"
+msgstr "Immobilien Finanzierungsrechner"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:27
+msgid "Basic Financial Data"
+msgstr "Finanzielle Grunddaten"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:28
+msgid "Monthly available base amount"
+msgstr "Monatlich verfügbarer Basisbetrag"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:29
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:31
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:38
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:47
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:49
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:51
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:60
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:62
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:64
+msgid "e.g."
+msgstr "z.B."
+
+#. decimal mark
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:29
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:31
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:38
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:47
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:49
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:51
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:60
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:62
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:64
+msgid "."
+msgstr ","
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:30
+msgid "Monthly administration costs of the new property"
+msgstr "Monatliche Nebenkosten des neuen Objekts"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:34
+msgid "Will the object be (partially) rented out?"
+msgstr "Wird das Objekt (teilweise) vermietet?"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:37
+msgid "Expected monthly rental income"
+msgstr "Erwartete monatliche Mieteinnahmen"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:40
+msgid "Real amount available"
+msgstr "Real verfügbarer Betrag"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:42
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:55
+msgid "continue"
+msgstr "weiter"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:45
+msgid "Loan Data"
+msgstr "Daten des Kredits"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:46
+msgid "Annual percentage rate (in % - nominal)"
+msgstr "Nominaler Jahreszins (in %)"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:48
+msgid "Repayment rate (in %)"
+msgstr "Tilgungssatz (in %)"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:50
+msgid "Equity"
+msgstr "Eigenkapital"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:52
+msgid "Possible investment (WITHOUT extra costs)"
+msgstr "Mögliche Investitionssumme (ohne Zusatzkosten)"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:54
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:65
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:97
+msgid "back"
+msgstr "zurück"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:58
+msgid "Cost of purchasing"
+msgstr "Erwerbsnebenkosten"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:59
+msgid "Brokerage costs (in %)"
+msgstr "Maklerkosten (in %)"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:61
+msgid "Notary fees (in %)"
+msgstr "Notarkosten (in %)"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:63
+msgid "Real estate transfer tax (in %)"
+msgstr "Grunderwerbssteuer (in %)"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:66
+msgid "final result"
+msgstr "Endergebnis"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:69
+msgid "Final price of your property"
+msgstr "So viel darf Ihre Immobilie kosten"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:71
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:98
+msgid "Show ammortization plan"
+msgstr "Tilgungsplan anzeigen"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:74
+msgid "Start Month"
+msgstr "Startmonat"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:91
+msgid "Start Year"
+msgstr "Startjahr"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:119
+msgid ""
+"This schedule is calculated based on your input with standards calculation "
+"methods. The actual values might be marginally different."
+msgstr ""
+"Dieser Tilgungsplan wurde auf der Basis Ihrer Eingaben mit Standard-Formeln "
+"berechnet. Die tatsächlichen Werte können geringfügig abweichen."
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:125
+msgid "Month / Year"
+msgstr "Monat / Jahr"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:126
+msgid "Liabilities"
+msgstr "Schuld"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:127
+msgid "Mortgage"
+msgstr "Restschuld"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:128
+msgid "Payment"
+msgstr "Zahlung"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:129
+msgid "Redemption"
+msgstr "Tilgung"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:130
+msgid "Interest"
+msgstr "Zins"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:131
+msgid "Total interest"
+msgstr "Summe Zinsen"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-property-finance-budget-calculator/trunk/public/partials/jimmo-wp-property-finance-budget-calculator-public-display.php:142
+#, php-format
+msgid ""
+"Powered by JIMMO WP Loan Budget Calculator - <a href=\"%s\">JIMMO-TOOLs</a> "
+"Software for real estate agents."
+msgstr ""
+"Powered by JIMMO WP Kreditbudgetrechner - <a href=\"%s\">JIMMO-TOOLs</a> "
+"Software für Immobilienmakler."
+
+#. Name of the plugin
+msgid "JIMMO WP Property Finance Budget Calculator"
+msgstr "JIMMO WP Immobilien Finanzierungsrechner"
+
+#. Description of the plugin
+msgid "Plugin to calculate a loan budget for Real Estate."
+msgstr "Plugin, um ein Budget für eine Immobiliebfinanzierung zu berechnen."
+
+#. URI of the plugin
+msgid ""
+"http://wordpress.org/plugins/jimmo-wp-property-finance-budget-calculator"
+msgstr ""
+"http://wordpress.org/plugins/jimmo-wp-property-finance-budget-calculator"
+
+#. Author of the plugin
+msgid "NetJet UG (haftungsbeschränkt)"
+msgstr "NetJet UG (haftungsbeschränkt)"
+
+#. Author URI of the plugin
+msgid "http://www.net-jet.de/"
+msgstr "http://www.net-jet.de/"
